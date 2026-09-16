@@ -1,0 +1,26 @@
+<html>
+    <head> 
+      <title>My Webpage</title>
+    </head>
+    <body>
+    <h1> Gina Scalici </h1>
+
+    <h2>About Me:</h2>
+    <p> I am a senior at SJU majoring in Information Technology.</p>
+    <h2> Contact Information:</h2>
+    <p> Email:ginamarie.scalici23#my.stjohns.edu</p>
+    <hr>
+
+    <h2>Education Courses: </h2>
+    <ol> 1) IT Capstone <BR> 2)Introduction to Data Analytics <BR> 3) Principles of Management I <BR> </ol>
+    
+    <h2> Skills: </h2>
+    <ul> - Communication <BR> - Time Management <BR> - Organized <BR> - Networking </ul>
+    <HR> 
+    <h2>Interests: </h2>
+    <p> Besides being a college student, on my free time I truly enjoy listening to music and attening concerts. I also enjoy taking photos on my camera, especially taking pictures of the ocean. </p>
+    <h2> Please take a look at one of my favorite photos that I hope to capture one day. </h2>
+    <img src="https://images.squarespace-cdn.com/content/v1/5369465be4b0507a1fd05af0/1528837069483-LD1R6EJDDHBY8LBPVHIU/randall-ruiz-272502.jpg"alt"Why are Sea Turtles Important" width="300">
+    <h2> My Favorite Website: </h2>
+      <a href="https://www.amazon.com"> Click Here</a>
+    </body>
