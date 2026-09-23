@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>InfoTix</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+
+    <img class="logo"
+    src="https://www.stjohns.edu/themes/sju_theme/assets/img/stjohns-logo.svg"
+    alt="Logo">
+
+    <nav>
+        <a href="#">Services</a>
+        <a href="#">Products</a>
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <div class="left">
+
+        <h1>
+            We simplify technology
+            so you can focus on
+            growing your business.
+        </h1>
+
+        <p>
+            Work with our 15+ years of experts from Oracle,
+            Google, Meta, Amazon, IBM and academic institutions
+            to grow your business.
+        </p>
+
+    </div>
+
+    <div class="right">
+
+        <div class="image-box"></div>
+
+        <button>
+            Schedule call with us
+        </button>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <div>
+        2 Summers St Long Islan,<br>
+        New York 11771, USA
+    </div>
+
+    <div>
+        Who We Are<br>
+        Publications
+    </div>
+
+    <div>
+        Our Mission<br>
+        Our Vision
+    </div>
+
+    <div>
+        Career<br>
+        Internship
+    </div>
+
+    <div>
+        (917) 222-2222<br>
+        info@infotix.com
+    </div>
+
+</footer>
+
+</body>
+</html>
+
+
+<header>
+
+    <img class="logo"
+    src="https://www.stjohns.edu/themes/sju_theme/assets/img/stjohns-logo.svg"
+    alt="Logo">
+
+    <nav>
+        <a href="#">Services</a>
+        <a href="#">Products</a>
+    </nav>
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>What We Can Do For You</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <section class="services">
+
+        <!-- Heading -->
+        <div class="heading">
+            <h1>
+                <span>What</span> we can do for you
+            </h1>
+        </div>
+
+
+        <!-- Service Cards -->
+        <div class="service-grid">
+
+            <!-- Software Development -->
+            <article class="service-card">
+
+                <h2>Software development</h2>
+
+                <p>
+                    AI driven custom-built apps<br>
+                    engineered for excellence and<br>
+                    efficiency.
+                </p>
+
+                <div class="image-box"></div>
+
+            </article>
+
+
+            <!-- Cloud Solutions -->
+            <article class="service-card">
+
+                <h2>Cloud solutions</h2>
+
+                <p>
+                    Cloud-first strategies that drive<br>
+                    speed, scale, and savings.
+                </p>
+
+                <div class="image-box"></div>
+
+            </article>
+
+
+            <!-- Managed Services -->
+            <article class="service-card">
+
+                <h2>Managed services</h2>
+
+                <p>
+                    End-to-end tech support so you<br>
+                    can focus on growth, not glitches.
+                </p>
+
+                <div class="image-box"></div>
+
+            </article>
+
+
+            <!-- Process Optimization -->
+            <article class="service-card">
+
+                <h2>Process optimization</h2>
+
+                <p>
+                    From vision to execution — strategic IT<br>
+                    advisory you can count on.
+                </p>
+
+                <div class="image-box"></div>
+
+            </article>
+
+        </div>
+
+
+        <!-- Footer -->
+        <footer>
+
+          <div>
+             2 Summers St Long Islan,<br>
+              New York 11771, USA
+          </div>
+
+         <div>
+        Who We Are<br>
+        Publications
+    </div>
+
+    <div>
+        Our Mission<br>
+        Our Vision
+    </div>
+
+    <div>
+        Career<br>
+        Internship
+    </div>
+
+    <div>
+        (917) 222-2222<br>
+        info@infotix.com
+    </div>
+
+        </footer>
+
+    </section>
+
+</body>
+</html>
